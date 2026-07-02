@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html>
 <head><title> Readme do git do meuproj </title></head>
@@ -5,4 +6,18 @@
 <p> # Projeto GIT - Aprendendo a usar o GIT na prática
 <br>
 </body>
+=======
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+# Projeto GIT - Aprendendo a usar o GIT na prática 
+
+</head>
+<body>
+<br>
+<p> Primeira tarefa de novos commits
+
+</body>
+
+>>>>>>> novafeature
 </html>
